@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keyword" content="">
+
+    <title>NetKamp - ITSTORE</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!--external css-->
+    <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+        
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/style-responsive.css" rel="stylesheet">
+
+
+  </head>
+
+  <body class="login-back">
+
+      <!-- **********************************************************************************************************************************************************
+      MAIN CONTENT
+      *********************************************************************************************************************************************************** -->
+
+	  <div id="login-page">
+	  	<div class="container">
+	  	
+		      <form class="form-login" id="login">
+		        <h2 class="form-login-heading logo">NetKamp 1.0</h2>
+		        <div class="login-wrap">
+		            <input type="text" class="form-control" id="username" name="username" autocomplete="on" placeholder="" autofocus>
+		            <br />
+		            <input type="password" class="form-control" id="passwd" name="passwd" autocomplete="on" placeholder="">
+					<br />
+		            <select class="form-control" id="ry" name="ry" >
+						<option value="2016">2016</option>
+						<option value="2015">2015</option>
+		            </select>
+					<br />
+		            <button class="btn btn-theme btn-block" href="index.html" type="submit"><i class="fa fa-lock"></i> LOGIN</button>
+		            <br />
+		            <p class="centered" id="login_error"></p>
+		            <br/>
+		            <p class="centered"><img src="assets/img/italy.png" width="25" alt="italy" onclick="changeLang('it');" style="cursor:pointer;" />&nbsp;&nbsp;<img src="assets/img/uk.png" width="25" alt="uk" onclick="changeLang('en');" style="cursor:pointer;" /></p>
+		            <br/>
+		            <p class="centered"><img src="assets/img/itstore.jpg" width="150" alt="itstore"></p>
+		        </div>
+		
+		        <input type="hidden" name="co" value="login" />	
+		        
+		      </form>	  	
+		      
+	  	</div>
+	  </div>
+
+    <!-- js placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+
+    <script src="assets/js/store/store-json2.min.js"></script>
+
+
+    <script src="assets/js/language.js"></script>
+
+
+    <script src="assets/js/NetKamp/index.0.3.js"></script>
+
+    <!--BACKSTRETCH-->
+    <!-- You can use an image of whatever size. This script will stretch to fit in any screen size.-->
+    <script type="text/javascript" src="assets/js/jquery.backstretch.min.js"></script>
+    <script>
+        //$.backstretch("assets/img/login-bg.jpg", {speed: 500});
+    </script>
+
+
+  </body>
+</html>
