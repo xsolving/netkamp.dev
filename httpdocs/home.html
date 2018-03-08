@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->		
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta name="keyword" content="">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon" /> 
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+		
+		<title>NetCamp - ITSTORE</title>
+
+		<script src="assets/js/Others/jquery/jquery-1.11.3.js"></script>
+		
+		<!--
+		<script src="assets/js/_min/gb.Others.js"></script>
+		<script src="assets/js/_min/gb.Core.js"></script>
+		
+		<script src="assets/js/_min/NK.Core.js"></script>
+		<script src="assets/js/_min/NK.Home.js"></script>
+		-->
+		
+		<!-- Bootstrap core CSS -->
+		
+		<link href="assets/css/Others/bootstrap/3.3.6/bootstrap.min.css" rel="stylesheet">
+		<link href="assets/css/Others/bootstrap/3.3.6/bootstrap-theme.min.css" rel="stylesheet">
+		
+		
+		<!--external css-->
+		
+		<link rel="stylesheet" type="text/css" href="assets/font-awesome-4.5.0/css/font-awesome.css"  />
+		<link rel="stylesheet" type="text/css" href="assets/js/gritter/css/jquery.gritter.css" />
+		<link rel="stylesheet" type="text/css" href="assets/lineicons/style.css">    
+	
+		<!-- Application - Start -->
+		
+		<script src="assets/js/gb/minified/dist/gb/0.1.0/gb-core.min.js"></script>
+		<script type="javascript">
+			document.write('<scr' + 'ipt src="assets/js/gb/minified/dist/gb/0.1.0/gb-core.min.js"></scri' + 'pt>');
+		</script>
+		<!--
+		<script src="assets/js/gb/Root.js"></script>
+		<script src="assets/js/gb/Loader.js"></script>
+		-->
+		<script src="assets/js/NetKamp/minified/dist/NetKamp/0.1.0/NetKamp-Loader.min.js"></script>
+		<!--
+		<script src="assets/js/NetKamp/NK.js"></script>
+		<script src="assets/js/NetKamp/Loader.js"></script>
+		<script src="assets/js/NetKamp/Loader/Home.js"></script>
+		-->
+		
+
+		<!-- Application - End -->
+		<!-- Custom styles for this template -->
+		
+		<link href="assets/css/style.css" rel="stylesheet">
+		<link href="assets/css/style-responsive.css" rel="stylesheet">
+		
+		
+		<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="assets/css/style-ie.css" />
+		<![endif]-->
+		
+		
+		
+		<link rel="stylesheet" href="assets/css/bootstrap-datepicker3/bootstrap-datepicker3.standalone.min.css" type="text/css">
+	
+		<link rel="stylesheet" href="assets/css/bootstrap-table/bootstrap-table.css">
+		
+		
+		<!--
+		<link href="assets/css/_min/gb.Others.css" rel="stylesheet">
+
+		<link href="assets/css/_min/NK.Others.css" rel="stylesheet">
+		<link href="assets/css/_min/NK.Core.css" rel="stylesheet">
+		-->
+		
+		<script type="text/javascript" language="javascript">
+		NK_Loader_Home.writeCSSTags();
+		</script>
+	</head>
+	
+	<body>
+	
+		<div id="container" >
+		  <!-- **********************************************************************************************************************************************************
+		  TOP BAR CONTENT & NOTIFICATIONS
+		  *********************************************************************************************************************************************************** -->
+		  <!--header start-->
+		  <div class="header black-bg navbar-header">
+				<div class="sidebar-toggle-box">
+				  <div class="fa fa-bars tooltips" data-placement="right" style="color:#FFF;">&nbsp;</div>
+				</div>
+				<!--logo start-->
+				<span style="">NetKamp 2.0 -</span>
+				<!--logo end-->
+				<span style="min-width:10px;width:auto" id="label-referral_year"></span>
+				<span style="min-width:10px;width:auto" id="referral_year_value">-</span>
+				
+				<div class="top-menu">
+					<ul class="nav pull-right top-menu">
+						<li><a class="logout header-buttons" href="#" onclick="return NK_Widget_UserSession.logout();" id="button_logout">Logout</a></li>
+						<li style="display:none" id="AppRefreshLi"><a class="logout header-buttons" href="#" onclick="return NK_Page_Home.reload();" id="button_refresh">Refresh App</a></li>
+					</ul>
+				</div>
+			</div>
+		  <!--header end-->
+		  
+		  <!-- 
+		  *********************
+		  * MAIN SIDEBAR MENU *
+		  ********************* 
+		  -->
+		  <!--sidebar start-->
+		  <div id="sidebar_container">
+		  </div>
+		  <!--sidebar end-->
+		  
+		  <!-- 
+		  ****************
+		  * MAIN CONTENT *
+		  ****************
+		  -->
+		  <!--main content start-->
+		  <div id="main-content">
+			<div class="wrapper section_box" id="home_main">
+				<div class="row mt">
+					<div class="col-lg-12">
+						<div class="content-panel" id="detailmovements_div">
+							<h4><i class="fa fa-info"></i> <span id="home_index_title"></span></h4><hr />
+							<div id="home_index">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		  
+			<!-- Modal Start here-->
+			<div class="modal fade bs-example-modal-sm" id="myPleaseWait" tabindex="-1"
+				role="dialog" aria-hidden="true" data-backdrop="static">
+				<div class="modal-dialog modal-sm">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h4 class="modal-title">
+								<span class="glyphicon glyphicon-time">
+								</span>Please Wait
+							 </h4>
+						</div>
+						<div class="modal-body">
+							<div class="progress">
+								<div class="progress-bar progress-bar-info
+								progress-bar-striped active"
+								style="width: 100%">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Modal ends Here -->      
+			
+			<!-- Modal -->
+			<!--
+			<div class="modal fade" id="modalAlert" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+			  <div class="modal-dialog" role="document">
+				<div class="modal-content">
+				  <div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+				  </div>
+				  <div class="modal-body">
+					...
+				  </div>
+				  <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			-->
+		  
+		  
+			<br /><br />
+			<!--main content end-->
+			<!--footer start-->
+			<footer class="site-footer">
+				<div class="text-center">
+			  		<b>Giovanni Basolu</b> -
+			  		<b>IT.Store srl</b> - All rights reserved &copy; 2015-2016
+			  		<a href="#" class="go-top">
+						<i class="fa fa-angle-up"></i>
+					</a>
+				</div>
+			</footer>
+			<!--footer end-->
+		</div>
+	
+		<!-- js placed at the end of the document so the pages load faster -->
+		<!--<script type="text/javascript" src="assets/js/bowser/bowser.min.js"></script>-->
+		<script type="text/javascript" >
+		  var zoomlevel=1;
+	
+			$("body").dblclick(function(ev) {
+				//zoomlevel = zoomlevel == 1 ? 2 : 1;
+				zoomlevel = 1;
+		
+		
+				$(this).css({
+					"-moz-transform":"scale("+zoomlevel+")",
+					"-webkit-transform":"scale("+zoomlevel+")",
+					"-o-transform":"scale("+zoomlevel+")",
+					"-ms-transform":"scale("+zoomlevel+")"
+				});
+		
+		
+			});
+		</script>
+		
+		<script type="text/javascript" language="javascript">
+		NK_Loader_Home.writeJSTags( );
+		</script>
+				
+		<script type="text/javascript" src="assets/js/gritter/js/jquery.gritter.js"></script>
+		<script type="text/javascript" src="assets/js/gritter-conf.js"></script>
+  
+
+    </body>
+</html>
