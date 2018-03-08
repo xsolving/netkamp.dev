@@ -1,0 +1,23 @@
+Array
+(
+    [d-3] => Array
+        (
+            [p-APX] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 20
+                )
+
+        )
+
+    [d-20] => Array
+        (
+            [p-_MB] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 0
+                )
+
+        )
+
+)

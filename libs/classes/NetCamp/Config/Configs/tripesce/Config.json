@@ -1,0 +1,36 @@
+{
+	"config":
+		{
+			"2015":{
+				"hashBase":"fdijsahf5?ihds!abfhbg76858",
+				"idStruttura": "049017CAM0006",
+				"business":{
+					"openDate":"2015-03-28",
+					"closeDate":"2015-10-17"
+				},
+				"db": {
+					"serverName":"gestionale\\SQL2008",
+					"DSN":"dsn_tp_gc2015",
+					"database":"gestcamp2015_tripesce",
+					"username":"gestcamp_user",
+					"password":"gestcamp_user"
+				}
+			},
+			"2016":{
+				"hashBase":"fdijsahf5?ihds!abfhbg76858",
+				"idStruttura": "049017CAM0006",
+				"business":{
+					"openDate":"2016-03-26",
+					"closeDate":"2016-10-22"
+				},
+				"db": {
+					"serverName":"gestionale.tripesce.local",
+					"DSN":"dsn_tp_gc2016",
+					"database":"campgest2016",
+					"username":"sa",
+					"password":"Tripesce01"
+				}
+			}
+		}
+}
+

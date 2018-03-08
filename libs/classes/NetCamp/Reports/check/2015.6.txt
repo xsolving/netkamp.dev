@@ -1,0 +1,2649 @@
+Array
+(
+    [d-1] => Array
+        (
+            [p-_PR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 15
+                    [partenze] => 0
+                )
+
+            [p-_LI] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_VR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 26
+                    [partenze] => 28
+                )
+
+            [p-B] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_FE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_RE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_GO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_CB] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_NO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+        )
+
+    [d-2] => Array
+        (
+            [p-_00] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 37
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 2
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 20
+                    [partenze] => 26
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-_FC] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 8
+                )
+
+            [p-_PN] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_GE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 15
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 6
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_LO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MN] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 19
+                )
+
+            [p-_SO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_VA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 15
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 7
+                )
+
+            [p-_AL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_BA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 8
+                )
+
+            [p-_LI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 8
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 13
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 12
+                )
+
+            [p-_TN] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_AO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_VR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_VI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_ME] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-3] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-GB] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 21
+                    [partenze] => 71
+                )
+
+            [p-_00] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 12
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 8
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 10
+                )
+
+            [p-_PD] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-4] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_BL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 6
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 4
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 18
+                    [partenze] => 64
+                )
+
+            [p-GB] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-5] => Array
+        (
+            [p-_MO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_VR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 2
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 86
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_RA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-6] => Array
+        (
+            [p-_FI] => Array
+                (
+                    [arrivi] => 38
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 0
+                )
+
+            [p-_VR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 7
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 27
+                    [partenze] => 60
+                )
+
+            [p-_00] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_BL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-7] => Array
+        (
+            [p-_RA] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_MB] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 2
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 33
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 7
+                    [partenze] => 13
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 32
+                    [partenze] => 25
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_CR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 9
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 6
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 11
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_VR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-8] => Array
+        (
+            [p-CH] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-APX] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 13
+                    [partenze] => 11
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-9] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_AO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 4
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 13
+                    [partenze] => 12
+                )
+
+            [p-_RA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+        )
+
+    [d-10] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 13
+                    [partenze] => 7
+                )
+
+            [p-_AO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-11] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 4
+                )
+
+            [p-_RE] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 16
+                    [partenze] => 14
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-12] => Array
+        (
+            [p-_PR] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_RM] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 17
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 5
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 24
+                    [partenze] => 22
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-13] => Array
+        (
+            [p-_PC] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_GE] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_CR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BI] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 2
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 2
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 14
+                    [partenze] => 6
+                )
+
+            [p-APX] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 24
+                    [partenze] => 26
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-_RM] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-14] => Array
+        (
+            [p-_BO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 7
+                    [partenze] => 12
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 23
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 2
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 22
+                    [partenze] => 15
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_GE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_CR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 6
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 8
+                )
+
+            [p-APX] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-15] => Array
+        (
+            [p-F] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 24
+                    [partenze] => 11
+                )
+
+            [p-_PC] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 6
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-16] => Array
+        (
+            [p-_FI] => Array
+                (
+                    [arrivi] => 14
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 4
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 19
+                    [partenze] => 17
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-17] => Array
+        (
+            [p-_BG] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_GR] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 0
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 17
+                    [partenze] => 28
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-18] => Array
+        (
+            [p-_00] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 0
+                )
+
+            [p-_SP] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 0
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 20
+                    [partenze] => 2
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 16
+                    [partenze] => 17
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-19] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_IM] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_NO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_CA] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 15
+                    [partenze] => 0
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 2
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 32
+                    [partenze] => 28
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-20] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 2
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_AL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 24
+                    [partenze] => 4
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 4
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 20
+                    [partenze] => 0
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_TN] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_AG] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 34
+                    [partenze] => 10
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 17
+                    [partenze] => 10
+                )
+
+            [p-_00] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_SP] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 7
+                )
+
+        )
+
+    [d-21] => Array
+        (
+            [p-APE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 4
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 4
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 11
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 26
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_VE] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 9
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 30
+                    [partenze] => 12
+                )
+
+            [p-F] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_IM] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 6
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_NO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_CA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_GR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 18
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_AG] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-22] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 0
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 1
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 0
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 8
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_MB] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_AL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-23] => Array
+        (
+            [p-_RE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 4
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 16
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-24] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-F] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 0
+                )
+
+            [p-_RM] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 4
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 3
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 4
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 13
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+        )
+
+    [d-25] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 4
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 8
+                )
+
+            [p-_SO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_VA] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 7
+                    [partenze] => 3
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 6
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 5
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 11
+                    [partenze] => 18
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_RM] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-26] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 6
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 6
+                    [partenze] => 0
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_PV] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_AL] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_TA] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 0
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 14
+                    [partenze] => 30
+                )
+
+            [p-F] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-_RE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 1
+                )
+
+            [p-_BI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 9
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-27] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 10
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 2
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_PC] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_MO] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 2
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 7
+                    [partenze] => 8
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 0
+                )
+
+            [p-_PV] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_VA] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 2
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 5
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 58
+                    [partenze] => 3
+                )
+
+            [p-_LI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 20
+                    [partenze] => 0
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 11
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 46
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 1
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 30
+                    [partenze] => 27
+                )
+
+            [p-_00] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+        )
+
+    [d-28] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 7
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 11
+                )
+
+            [p-_MN] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 7
+                    [partenze] => 16
+                )
+
+            [p-_NO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 30
+                )
+
+            [p-_LU] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 16
+                )
+
+            [p-_VE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 11
+                    [partenze] => 14
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 9
+                    [partenze] => 16
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 3
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PC] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_MO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_PV] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_SO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_AR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_LI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 9
+                )
+
+            [p-_PO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 10
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-_TN] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 5
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-29] => Array
+        (
+            [p-APX] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 13
+                )
+
+            [p-_BO] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_GE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_BG] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 2
+                )
+
+            [p-_CR] => Array
+                (
+                    [arrivi] => 3
+                    [partenze] => 0
+                )
+
+            [p-_MI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 1
+                    [partenze] => 16
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 6
+                )
+
+            [p-_SI] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 8
+                )
+
+            [p-_BZ] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_VE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 3
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 12
+                    [partenze] => 10
+                )
+
+            [p-NL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 33
+                    [partenze] => 37
+                )
+
+            [p-A] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_PR] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_BS] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_CO] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+            [p-_VA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 4
+                )
+
+            [p-_TA] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+    [d-30] => Array
+        (
+            [p-A] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-APE] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 12
+                )
+
+            [p-F] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_TO] => Array
+                (
+                    [arrivi] => 5
+                    [partenze] => 3
+                )
+
+            [p-_VC] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 0
+                )
+
+            [p-_AL] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-_PT] => Array
+                (
+                    [arrivi] => 4
+                    [partenze] => 2
+                )
+
+            [p-_PD] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 8
+                    [partenze] => 0
+                )
+
+            [p-GB] => Array
+                (
+                    [arrivi] => 2
+                    [partenze] => 0
+                )
+
+            [p-D] => Array
+                (
+                    [arrivi] => 10
+                    [partenze] => 12
+                )
+
+            [p-APX] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_RE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 3
+                )
+
+            [p-_FI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 11
+                )
+
+            [p-_VE] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 2
+                )
+
+        )
+
+)

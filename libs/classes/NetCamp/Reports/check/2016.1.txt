@@ -1,0 +1,29 @@
+Array
+(
+    [d-5] => Array
+        (
+            [p-_00] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 0
+                )
+
+            [p-CH] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 0
+                )
+
+        )
+
+    [d-6] => Array
+        (
+            [p-_PI] => Array
+                (
+                    [arrivi] => 0
+                    [partenze] => 0
+                )
+
+        )
+
+)

@@ -1,0 +1,35 @@
+{
+	"config":
+		{
+			"2015":{
+				"hashBase":"fdijsahf5?ihds!abfhbg76858",
+				"idStruttura": "049012CAM0003",
+				"business":{
+					"openDate":"2015-03-28",
+					"closeDate":"2015-10-17"
+				},
+				"db": {
+					"serverName":"appserver01\\SQL2008R2",
+					"DSN":"dsn_caf_gc2015",
+					"database":"gestcamp2015_campoalfico",
+					"username":"gestcamp_user",
+					"password":"gestcamp_user1"
+				}
+			},
+			"2016":{
+				"hashBase":"fdijsahf5?ihds!abfhbg76858",
+				"idStruttura": "049012CAM0003",
+				"business":{
+					"openDate":"2016-03-26",
+					"closeDate":"2016-10-22"
+				},
+				"db": {
+					"serverName":"appserver01\\SQL2008R2",
+					"DSN":"dsn_caf_gc2015",
+					"database":"gestcamp2015_campoalfico",
+					"username":"gestcamp_user",
+					"password":"gestcamp_user1"
+				}
+			}
+		}
+}

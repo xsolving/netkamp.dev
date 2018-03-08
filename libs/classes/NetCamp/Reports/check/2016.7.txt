@@ -1,0 +1,91 @@
+Array
+(
+    [result] => Array
+        (
+            [d-6] => Array
+                (
+                    [p-APX] => Array
+                        (
+                            [arrivi] => 20
+                            [partenze] => 0
+                        )
+
+                )
+
+            [d-8] => Array
+                (
+                    [p-_00] => Array
+                        (
+                            [arrivi] => 3
+                            [partenze] => 0
+                        )
+
+                )
+
+            [d-23] => Array
+                (
+                    [p-_MB] => Array
+                        (
+                            [arrivi] => 0
+                            [partenze] => 0
+                        )
+
+                )
+
+        )
+
+    [meta] => Array
+        (
+            [header] => Array
+                (
+                    [30] => Array
+                        (
+                            [p-APX] => Array
+                                (
+                                    [code] => APX
+                                    [name] => 
+                                )
+
+                        )
+
+                    [50] => Array
+                        (
+                            [p-_00] => Array
+                                (
+                                    [code] => _00
+                                    [name] => ITALIA
+                                )
+
+                        )
+
+                    [70] => Array
+                        (
+                            [p-_MB] => Array
+                                (
+                                    [code] => _MB
+                                    [name] => MONZA BRIANZA
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                        )
+
+                    [20] => Array
+                        (
+                        )
+
+                    [40] => Array
+                        (
+                        )
+
+                    [60] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
